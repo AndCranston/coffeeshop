@@ -1,0 +1,61 @@
+body  {color: midnightblue;
+      background-color: rgb(68, 2, 2);
+      font-size: larger;
+      font-weight: 600;
+      font-family:'Times New Roman', Times, serif
+}
+
+
+
+h1 {
+    color: rgb(80, 133, 0);
+    background-color: rgb(2, 65, 2);
+
+}
+
+
+.white-bg { color: rgb(185, 228, 206);
+    background-color: rgb(160, 50, 50);
+}
+
+.black-bg  { color: rgb(79, 139, 19);
+    background-color:rgb(245, 71, 8);
+
+}
+
+.pink-bg  { color: rgb(183, 27, 105);
+    background-color: rgb(185, 102, 102);
+
+}
+
+#top-paragraph  { 
+    font-family: 'Times New Roman', Times, serif;
+    background-color: blue;
+
+}
+
+.mainimage {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+.mainimage img {width: 50%;
+}
+
+#cockapoo1 {
+    width: 300px;}
+
+#ronaldo2  { 
+    width: 300px;
+}
+
+
+.navbar {
+    display: flex;
+    justify-content: space-around;
+}
+
+*{background-color: black
+    ;}
+
